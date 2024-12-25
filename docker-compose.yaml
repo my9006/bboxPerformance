@@ -1,0 +1,5 @@
+version: "3.8"
+services:
+  splytz_performance:
+    restart: no
+    build: .  
